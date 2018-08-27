@@ -1,5 +1,7 @@
 # 4443-Mobile-Apps-Cortez
-# Contact information:
+
+Contact information:
+
 Darien Cortez
 
 darien.cortez@gmail.com
