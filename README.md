@@ -6,4 +6,4 @@ darien.cortez@gmail.com
 
 http://dariencortez.wordpress.com
 
-![DAC](/DAC.jpg) width ="200" height = "200"
+![DAC](/DAC.jpg) = 200x200
